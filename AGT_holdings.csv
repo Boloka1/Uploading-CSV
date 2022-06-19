@@ -1,0 +1,31 @@
+﻿Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
+MELI,MERCADOLIBRE INC,Consumer Discretionary,Equity,"1,135,138.14",20.8,"1,135,138.14","1,787.00",635.22,United States,NASDAQ,USD,1,USD,-
+ARCO,ARCOS DORADOS HOLDINGS INC CLASS A,Consumer Discretionary,Equity,"315,021.00",5.77,"315,021.00","45,003.00",7,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+AGRO,ADECOAGRO SA,Consumer Staples,Equity,"298,441.50",5.47,"298,441.50","33,050.00",9.03,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+GGAL,GRUPO FINANCIERO GALICIA ADR REPTG,Financials,Equity,"287,525.30",5.27,"287,525.30","38,594.00",7.45,Argentina,NASDAQ,USD,1,USD,-
+ANDINA.B,EMBOTELLADORA ANDINA SERIES B SA,Consumer Staples,Equity,"273,565.43",5.01,"273,565.43","140,792.00",1.94,Chile,Santiago Stock Exchange,USD,874.4,CLP,-
+PAM,PAMPA ENERGIA ADR REPSG SA,Utilities,Equity,"262,349.81",4.81,"262,349.81","13,297.00",19.73,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+YPF,YPF SOCIEDAD ANONIMA ADR EACH REPR,Energy,Equity,"259,636.14",4.76,"259,636.14","75,917.00",3.42,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+YRI,YAMANA GOLD INC,Materials,Equity,"250,586.33",4.59,"250,586.33","48,385.00",5.18,Canada,Toronto Stock Exchange,USD,1.31,CAD,-
+CENCOSUD,CENCOSUD SA,Consumer Staples,Equity,"239,628.33",4.39,"239,628.33","168,298.00",1.42,Chile,Santiago Stock Exchange,USD,874.4,CLP,-
+SSRM,SSR MINING INC,Materials,Equity,"235,516.22",4.31,"235,516.22","12,520.00",18.81,Canada,Toronto Stock Exchange,USD,1.31,CAD,-
+CCU,COMPANIA CERVECERIAS UNIDAS SA,Consumer Staples,Equity,"228,963.58",4.19,"228,963.58","36,735.00",6.23,Chile,Santiago Stock Exchange,USD,874.4,CLP,-
+BMA,BANCO MACRO ADR REPRESENTING TEN S,Financials,Equity,"217,740.00",3.99,"217,740.00","18,145.00",12,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+TEO,TELECOM ARGENTINA ADR REPRESENTING,Communication,Equity,"216,810.75",3.97,"216,810.75","45,075.00",4.81,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+DESP,DESPEGAR COM CORP,Consumer Discretionary,Equity,"205,450.70",3.76,"205,450.70","27,430.00",7.49,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+TGS,TRANSPORTADORA DE GAS DEL SUR ADR,Energy,Equity,"186,405.00",3.42,"186,405.00","36,550.00",5.1,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+CEPU,CENTRAL PUERTO ADR REPRESENTING S,Utilities,Equity,"162,836.52",2.98,"162,836.52","52,869.00",3.08,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+LOMA,LOMA NEGRA INDUSTRIAL ARGENTINA SO,Materials,Equity,"162,385.58",2.97,"162,385.58","31,778.00",5.11,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+BBAR,BANCO BBVA ARGENTINA ADR SA,Financials,Equity,"98,232.32",1.8,"98,232.32","38,372.00",2.56,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+CAAP,CORPORACION AMERICA AIRPORTS SA,Industrials,Equity,"96,901.53",1.78,"96,901.53","17,273.00",5.61,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+CRESY,CRESUD ADR REPTG,Consumer Staples,Equity,"96,519.50",1.77,"96,519.50","19,075.00",5.06,Argentina,NASDAQ,USD,1,USD,-
+BIOX,BIOCERES CROP SOLUTIONS CORP,Materials,Equity,"67,505.40",1.24,"67,505.40","5,556.00",12.15,Argentina,NASDAQ,USD,1,USD,-
+EDN,EDENOR ADR REPSTG SA CLASS B,Utilities,Equity,"49,062.15",0.9,"49,062.15","10,551.00",4.65,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+IRS,IRSA INVERSIONES ADS REP SA,Real Estate,Equity,"47,079.54",0.86,"47,079.54","14,138.00",3.33,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+SUPV,GRUPO SUPERVIELLE ADR REPRESENTING,Financials,Equity,"46,810.16",0.86,"46,810.16","34,168.00",1.37,Argentina,New York Stock Exchange Inc.,USD,1,USD,-
+USD,USD CASH,Cash and/or Derivatives,Cash,"11,933.99",0.22,"11,933.99","11,934.00",100,United States,-,USD,1,USD,-
+CLP,CLP CASH,Cash and/or Derivatives,Cash,"4,383.09",0.08,"4,383.09","3,832,570.00",0.11,Chile,-,USD,874.4,CLP,-
+CAD,CAD CASH,Cash and/or Derivatives,Cash,"1,969.31",0.04,"1,969.31","2,574.00",76.5,Canada,-,USD,1.31,CAD,-
+MXN,MXN CASH,Cash and/or Derivatives,Cash,9.09,0,9.09,187,4.87,Mexico,-,USD,20.54,MXN,-
+GBP,GBP CASH,Cash and/or Derivatives,Cash,6.71,0,6.71,6,121.81,United Kingdom,-,USD,0.82,GBP,-
+EUR,EUR CASH,Cash and/or Derivatives,Cash,5.88,0,5.88,6,104.58,European Union,-,USD,0.96,EUR,-
